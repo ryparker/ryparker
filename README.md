@@ -8,6 +8,7 @@
 
 - [Schematized](https://github.com/ryparker/schematized) - Turn objects into JSON schemas! The more examples you provide, the better your schema will be.
 - [Jest-Schema-Matcher](https://github.com/ryparker/jest-schema-matcher) - An opinionated Jest matcher that generates, validates, and versions JSON Schemas for your APIs.
+- [Jest-docblock-runner](https://github.com/ryparker/jest-docblock-runner) - Run Jest tests by tagging your tests with docBlock pragmas.
 - [Jest-Circus-Allure-Environment](https://github.com/ryparker/jest-circus-allure-environment) - A Jest Circus environment for Allure reporting.
 - [Jest Allure2](https://github.com/ryparker/jest-allure2) - Jest reporter (compatible with Jest-Jasmine2) that produces Allure reports using the latest Allure features : ^2.0.0-beta.6
 

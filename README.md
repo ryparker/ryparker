@@ -1,6 +1,6 @@
 # I'm Ryan Parker, welcome to my GitHub! 👋 :smile:
 
-🌐 [Website](https://ryanparker.dev) | :bird: [Twitter](https://twitter.com/ryanisparker) | :camera_flash: [CodePen](https://codepen.io/ryparker) | 📦 [CodeSandbox](https://codesandbox.io/u/ryparker) | 👔 [LinkedIn](https://www.linkedin.com/in/ryanisparker/) | :postbox: [Stack Overflow](https://stackoverflow.com/users/8832840/ryan?tab=profile)
+🌐 [Website](https://ryanparker.dev) | :bird: [Twitter](https://twitter.com/ryanisparker) | :camera_flash: [CodePen](https://codepen.io/ryparker) | 📦 [CodeSandbox](https://codesandbox.io/u/ryparker) | 🖼️ [Dribbble](https://dribbble.com/ryparker) | 👔 [LinkedIn](https://www.linkedin.com/in/ryanisparker/) | :postbox: [Stack Overflow](https://stackoverflow.com/users/8832840/ryan?tab=profile)
 
 > Build first with wood, then steel.
 
@@ -14,11 +14,6 @@
 - [Jest-Schema-Matcher](https://github.com/ryparker/jest-schema-matcher) · An opinionated Jest matcher that generates, validates, and versions JSON Schemas for your APIs.
 - [Jest-DocBlock-Runner](https://github.com/ryparker/jest-docblock-runner) · Run Jest tests by tagging your tests with docBlock pragmas.
 - [Jest-Circus-Allure-Environment](https://github.com/ryparker/jest-circus-allure-environment) · A Jest Circus environment for Allure reporting.
-
-### 📋 Templates
-
-- [Jest-Circus-Environment-Template](https://github.com/ryparker/jest-circus-environment-template) · A template for creating custom Jest Circus environments.
-- [Jest-Reporter-Template](https://github.com/ryparker/jest-reporter-template) · A template for creating custom Jest reporters.
 
 ### 👤 Personal
 
